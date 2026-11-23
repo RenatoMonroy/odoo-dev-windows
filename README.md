@@ -42,8 +42,8 @@ wslc.exe --version
 1. Clona el repositorio y cambia al directorio del proyecto:
 
    ```powershell
-   git clone https://github.com/RenatoMonroy/odoo-dev-windows.git
-   cd odoo-dev-windows
+   git clone https://github.com/RenatoMonroy/odoo-dev-windows.git odoo-workspace
+   cd odoo-workspace
    ```
 
 2. Crea la red y los contenedores:
